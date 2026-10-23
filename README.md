@@ -148,24 +148,7 @@ Haiku 5.5 and the three local models.
 | Output limit | 4,096 tokens through the APIs and 1,536 tokens locally |
 | Rendering | Headless Chromium at the viewport and device pixel ratio of each display condition |
 
-## Citation
-
-```bibtex
-@article{wan2026ergosight,
-  title   = {ErgoSight: Physically Grounded Evaluation of How Multimodal Large Language Models Perceive the Visual Ergonomics of User Interfaces},
-  author  = {Wan, Qian},
-  journal = {Displays},
-  note    = {Under review},
-  year    = {2026}
-}
-```
-
 ## License
 
 This repository is released under the GNU Affero General Public License v3.0, see `LICENSE`. The
 real web pages of ErgoSight-Bench come from Design2Code and remain subject to its license.
-
-## Contact
-
-Qian Wan, School of Computing and Artificial Intelligence, Southwest Jiaotong University,
-qianwan1990@outlook.com
