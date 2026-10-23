@@ -80,14 +80,7 @@ Each line of `questions.jsonl` is one question.
 
 ## Citation
 
-```bibtex
-@article{wan2026ergosight,
-  title   = {ErgoSight: Physically Grounded Evaluation of How Multimodal Large Language Models Perceive the Visual Ergonomics of User Interfaces},
-  author  = {Wan, Qian},
-  journal = {Displays},
-  note    = {Under review},
-  year    = {2026}
-}
+
 ```
 
 ## License
