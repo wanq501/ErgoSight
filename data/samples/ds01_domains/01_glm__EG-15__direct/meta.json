@@ -1,0 +1,51 @@
+{
+ "id": "glm__EG-15__direct",
+ "group": "ai",
+ "model": "glm",
+ "pid": "EG-15",
+ "domain": "eye_gaze",
+ "source": "direct",
+ "defect": null,
+ "style": "glass",
+ "context": "gaze typing",
+ "function": "quick communication phrases",
+ "domain_name": "eye-gaze assistive",
+ "total": 150,
+ "by_dim": {
+  "VA": 76,
+  "TC": 27,
+  "NC": 21,
+  "TS": 7,
+  "CV": 1,
+  "AC": 18
+ },
+ "by_cond": {
+  "D1_desktop": 46,
+  "D2_tablet": 37,
+  "D3_phone": 48,
+  "D5_cvd": 1,
+  "D6_outdoor": 18
+ },
+ "cells": {
+  "VA@D1_desktop": 29,
+  "TC@D1_desktop": 9,
+  "NC@D1_desktop": 7,
+  "TS@D1_desktop": 1,
+  "VA@D2_tablet": 18,
+  "TC@D2_tablet": 9,
+  "NC@D2_tablet": 7,
+  "TS@D2_tablet": 3,
+  "VA@D3_phone": 29,
+  "TC@D3_phone": 9,
+  "NC@D3_phone": 7,
+  "TS@D3_phone": 3,
+  "CV@D5_cvd": 1,
+  "AC@D6_outdoor": 18
+ },
+ "views": [
+  "D1_desktop",
+  "D2_tablet",
+  "D3_phone",
+  "D4_reflow"
+ ]
+}

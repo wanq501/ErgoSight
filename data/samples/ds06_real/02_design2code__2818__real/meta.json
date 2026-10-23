@@ -1,0 +1,38 @@
+{
+ "id": "design2code__2818__real",
+ "group": "real",
+ "model": "design2code",
+ "pid": "2818",
+ "domain": "web",
+ "source": "real",
+ "defect": null,
+ "style": "",
+ "context": "",
+ "function": "",
+ "domain_name": "",
+ "total": 65,
+ "by_dim": {
+  "TS": 6,
+  "VA": 58,
+  "RF": 1
+ },
+ "by_cond": {
+  "D1_desktop": 2,
+  "D2_tablet": 2,
+  "D3_phone": 60,
+  "D4_reflow": 1
+ },
+ "cells": {
+  "TS@D1_desktop": 2,
+  "TS@D2_tablet": 2,
+  "VA@D3_phone": 58,
+  "TS@D3_phone": 2,
+  "RF@D4_reflow": 1
+ },
+ "views": [
+  "D1_desktop",
+  "D2_tablet",
+  "D3_phone",
+  "D4_reflow"
+ ]
+}

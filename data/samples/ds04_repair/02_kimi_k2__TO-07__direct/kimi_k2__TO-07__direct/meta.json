@@ -1,0 +1,58 @@
+{
+ "id": "kimi_k2__TO-07__direct",
+ "group": "ai",
+ "model": "kimi_k2",
+ "pid": "TO-07",
+ "domain": "teleoperation",
+ "source": "direct",
+ "defect": null,
+ "style": "cockpit",
+ "context": "an inspection drone",
+ "function": "mission status and alarms",
+ "domain_name": "robot teleoperation",
+ "total": 608,
+ "by_dim": {
+  "VA": 261,
+  "TC": 135,
+  "TS": 16,
+  "NC": 15,
+  "TI": 39,
+  "RF": 69,
+  "CV": 1,
+  "AC": 72
+ },
+ "by_cond": {
+  "D1_desktop": 139,
+  "D2_tablet": 143,
+  "D3_phone": 197,
+  "D4_reflow": 56,
+  "D5_cvd": 1,
+  "D6_outdoor": 72
+ },
+ "cells": {
+  "VA@D1_desktop": 87,
+  "TC@D1_desktop": 45,
+  "TS@D1_desktop": 2,
+  "NC@D1_desktop": 5,
+  "VA@D2_tablet": 87,
+  "TC@D2_tablet": 45,
+  "TS@D2_tablet": 6,
+  "NC@D2_tablet": 5,
+  "VA@D3_phone": 87,
+  "TC@D3_phone": 45,
+  "TI@D3_phone": 19,
+  "TS@D3_phone": 8,
+  "NC@D3_phone": 5,
+  "RF@D3_phone": 33,
+  "TI@D4_reflow": 20,
+  "RF@D4_reflow": 36,
+  "CV@D5_cvd": 1,
+  "AC@D6_outdoor": 72
+ },
+ "views": [
+  "D1_desktop",
+  "D2_tablet",
+  "D3_phone",
+  "D4_reflow"
+ ]
+}

@@ -1,0 +1,51 @@
+{
+ "id": "glm__RD-07__direct",
+ "group": "ai",
+ "model": "glm",
+ "pid": "RD-07",
+ "domain": "radar",
+ "source": "direct",
+ "defect": null,
+ "style": "fluent",
+ "context": "airport surface-movement radar",
+ "function": "sensor status and configuration",
+ "domain_name": "radar situation display",
+ "total": 515,
+ "by_dim": {
+  "TC": 135,
+  "VA": 270,
+  "TS": 21,
+  "NC": 18,
+  "CV": 1,
+  "AC": 70
+ },
+ "by_cond": {
+  "D1_desktop": 144,
+  "D2_tablet": 150,
+  "D3_phone": 150,
+  "D5_cvd": 1,
+  "D6_outdoor": 70
+ },
+ "cells": {
+  "TC@D1_desktop": 45,
+  "VA@D1_desktop": 92,
+  "TS@D1_desktop": 1,
+  "NC@D1_desktop": 6,
+  "TC@D2_tablet": 45,
+  "VA@D2_tablet": 89,
+  "TS@D2_tablet": 10,
+  "NC@D2_tablet": 6,
+  "TC@D3_phone": 45,
+  "VA@D3_phone": 89,
+  "TS@D3_phone": 10,
+  "NC@D3_phone": 6,
+  "CV@D5_cvd": 1,
+  "AC@D6_outdoor": 70
+ },
+ "views": [
+  "D1_desktop",
+  "D2_tablet",
+  "D3_phone",
+  "D4_reflow"
+ ]
+}

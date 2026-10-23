@@ -1,0 +1,51 @@
+{
+ "id": "glm__EG-02__repaired",
+ "group": "ai",
+ "model": "glm",
+ "pid": "EG-02",
+ "domain": "eye_gaze",
+ "source": "repaired",
+ "defect": null,
+ "style": "bento",
+ "context": "augmentative communication",
+ "function": "calibration and tracking status",
+ "domain_name": "eye-gaze assistive",
+ "total": 63,
+ "by_dim": {
+  "VA": 40,
+  "TC": 3,
+  "TS": 8,
+  "NC": 6,
+  "CV": 5,
+  "AC": 1
+ },
+ "by_cond": {
+  "D1_desktop": 25,
+  "D2_tablet": 24,
+  "D3_phone": 8,
+  "D5_cvd": 5,
+  "D6_outdoor": 1
+ },
+ "cells": {
+  "VA@D1_desktop": 20,
+  "TC@D1_desktop": 1,
+  "TS@D1_desktop": 2,
+  "NC@D1_desktop": 2,
+  "VA@D2_tablet": 18,
+  "TC@D2_tablet": 1,
+  "TS@D2_tablet": 3,
+  "NC@D2_tablet": 2,
+  "VA@D3_phone": 2,
+  "TC@D3_phone": 1,
+  "TS@D3_phone": 3,
+  "NC@D3_phone": 2,
+  "CV@D5_cvd": 5,
+  "AC@D6_outdoor": 1
+ },
+ "views": [
+  "D1_desktop",
+  "D2_tablet",
+  "D3_phone",
+  "D4_reflow"
+ ]
+}

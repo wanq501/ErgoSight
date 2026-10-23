@@ -1,0 +1,47 @@
+{
+ "id": "kimi_k2__TO-07__repaired",
+ "group": "ai",
+ "model": "kimi_k2",
+ "pid": "TO-07",
+ "domain": "teleoperation",
+ "source": "repaired",
+ "defect": null,
+ "style": "cockpit",
+ "context": "an inspection drone",
+ "function": "mission status and alarms",
+ "domain_name": "robot teleoperation",
+ "total": 115,
+ "by_dim": {
+  "VA": 66,
+  "TI": 1,
+  "TS": 4,
+  "RF": 2,
+  "CV": 1,
+  "AC": 41
+ },
+ "by_cond": {
+  "D1_desktop": 24,
+  "D2_tablet": 24,
+  "D3_phone": 23,
+  "D4_reflow": 2,
+  "D5_cvd": 1,
+  "D6_outdoor": 41
+ },
+ "cells": {
+  "VA@D1_desktop": 24,
+  "VA@D2_tablet": 21,
+  "TI@D2_tablet": 1,
+  "TS@D2_tablet": 2,
+  "VA@D3_phone": 21,
+  "TS@D3_phone": 2,
+  "RF@D4_reflow": 2,
+  "CV@D5_cvd": 1,
+  "AC@D6_outdoor": 41
+ },
+ "views": [
+  "D1_desktop",
+  "D2_tablet",
+  "D3_phone",
+  "D4_reflow"
+ ]
+}

@@ -1,0 +1,7 @@
+id,name,physical_parameters,criteria
+D1,Desktop,"24-inch monitor, 92 ppi, scale 1, 600 mm, mouse",TC NC VA TS TI
+D2,Tablet,"11-inch tablet, 264 ppi, scale 2, 400 mm, touch",TC NC VA TS TI
+D3,Phone,"6.1-inch phone, 460 ppi, scale 3, 300 mm, touch",TC NC VA TS RF TI
+D4,Reflow,"320 CSS px window, 400% zoom",RF TI
+D5,Deuteranopia,D2 layout viewed with deuteranopia,CV
+D6,Daylight,"D3 under 10,000 lx, 600 cd/m2, 4% screen reflectance",AC

@@ -1,0 +1,6 @@
+Below are an HTML document and a screenshot of how it renders on a 1920x1080 desktop display. Visual direction: {visual direction}.
+Look for visible rendering defects only: controls that render as empty, unstyled or default boxes; SVG charts or icons that render as solid black shapes, are clipped or are missing; overlapping or clipped text; elements overflowing their containers. Write a small block of CSS that is appended at the end of the page and fixes them, using selectors that exist in the document. Do not restyle the design: keep layout, colours, font sizes, spacing and the visual direction, and do not change colours or font sizes for readability or accessibility reasons. If nothing is broken, return an empty block. Answer with one ```css code block only.
+
+```html
+{HTML document}
+```

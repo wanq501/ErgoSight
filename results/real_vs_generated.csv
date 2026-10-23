@@ -1,0 +1,9 @@
+,generated,real,real_questions
+Claude Sonnet 5.5,82.0,80.9,68.0
+Gemini 3.8 Flash,74.4,73.7,137.0
+GPT-5.4 mini,67.4,68.6,137.0
+Claude Haiku 5.5,74.1,70.3,327.0
+Qwen3.5-397B-A17B,51.4,51.8,137.0
+Qwen3.5-9B,45.1,43.7,327.0
+Qwen3-VL-8B-Instruct,46.0,46.2,327.0
+InternVL3.5-8B,44.0,45.0,327.0

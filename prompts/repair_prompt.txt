@@ -1,0 +1,12 @@
+Original design brief:
+{design brief}
+
+Current HTML document:
+```html
+{HTML document}
+```
+
+{violation report of the PMO}
+
+Revise the document so that every reported problem is fixed. Keep every required component with its exact visible label, keep the information content, layout concept and colour identity, and change only what is needed.
+Technical rules: inline CSS and JavaScript only; no external resources (no CDN, web fonts, images or network requests); use inline SVG or CSS for graphics. Output only the HTML document inside one ```html code block.

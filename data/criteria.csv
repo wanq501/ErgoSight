@@ -1,0 +1,9 @@
+id,criterion,threshold,source,questions
+TC,Text contrast,contrast ratio >= 4.5 (3.0 for large text),WCAG 2.2 SC 1.4.3,536
+NC,Boundary contrast,contrast ratio >= 3.0,WCAG 2.2 SC 1.4.11,538
+VA,Visual angle,cap-height visual angle >= 16 arcmin (20 arcmin for critical text),"ISO 9241-303, FHWA",538
+TS,Target size,smaller side >= 7.0 mm (24 CSS px with a mouse),"WCAG 2.2 SC 2.5.8, Apple HIG",542
+RF,Reflow,"overflow <= 2 CSS px at a 320 CSS px window, no clipped element",WCAG 2.2 SC 1.4.10,539
+TI,Text integrity,text fully visible,"WCAG 2.2 SC 1.4.10, 1.4.12",546
+CV,Color vision,color difference under deuteranopia >= 10,"WCAG 2.2 SC 1.4.1, Machado et al. 2009",490
+AC,Ambient contrast,contrast ratio under daylight >= 3.0,"FHWA, Chen et al.",546

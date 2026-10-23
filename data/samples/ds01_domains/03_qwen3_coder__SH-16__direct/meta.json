@@ -1,0 +1,53 @@
+{
+ "id": "qwen3_coder__SH-16__direct",
+ "group": "ai",
+ "model": "qwen3_coder",
+ "pid": "SH-16",
+ "domain": "smart_home",
+ "source": "direct",
+ "defect": null,
+ "style": "expressive",
+ "context": "an office meeting room",
+ "function": "appliance scheduling",
+ "domain_name": "smart-home control",
+ "total": 99,
+ "by_dim": {
+  "TC": 24,
+  "VA": 29,
+  "NC": 24,
+  "TS": 11,
+  "RF": 2,
+  "CV": 1,
+  "AC": 8
+ },
+ "by_cond": {
+  "D1_desktop": 26,
+  "D2_tablet": 25,
+  "D3_phone": 38,
+  "D4_reflow": 1,
+  "D5_cvd": 1,
+  "D6_outdoor": 8
+ },
+ "cells": {
+  "TC@D1_desktop": 8,
+  "VA@D1_desktop": 10,
+  "NC@D1_desktop": 8,
+  "TC@D2_tablet": 8,
+  "VA@D2_tablet": 9,
+  "NC@D2_tablet": 8,
+  "TC@D3_phone": 8,
+  "VA@D3_phone": 10,
+  "TS@D3_phone": 11,
+  "NC@D3_phone": 8,
+  "RF@D3_phone": 1,
+  "RF@D4_reflow": 1,
+  "CV@D5_cvd": 1,
+  "AC@D6_outdoor": 8
+ },
+ "views": [
+  "D1_desktop",
+  "D2_tablet",
+  "D3_phone",
+  "D4_reflow"
+ ]
+}

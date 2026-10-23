@@ -1,0 +1,57 @@
+{
+ "id": "glm__TH-10__direct",
+ "group": "ai",
+ "model": "glm",
+ "pid": "TH-10",
+ "domain": "thermal_ir",
+ "source": "direct",
+ "defect": null,
+ "style": "cockpit",
+ "context": "industrial furnace monitoring",
+ "function": "hotspot alarms",
+ "domain_name": "thermal infrared monitoring",
+ "total": 723,
+ "by_dim": {
+  "VA": 390,
+  "TC": 69,
+  "TI": 25,
+  "TS": 21,
+  "NC": 159,
+  "CV": 3,
+  "AC": 56
+ },
+ "by_cond": {
+  "D1_desktop": 221,
+  "D2_tablet": 218,
+  "D3_phone": 219,
+  "D4_reflow": 6,
+  "D5_cvd": 3,
+  "D6_outdoor": 56
+ },
+ "cells": {
+  "VA@D1_desktop": 130,
+  "TC@D1_desktop": 23,
+  "TI@D1_desktop": 8,
+  "TS@D1_desktop": 7,
+  "NC@D1_desktop": 53,
+  "VA@D2_tablet": 130,
+  "TC@D2_tablet": 23,
+  "TI@D2_tablet": 5,
+  "TS@D2_tablet": 7,
+  "NC@D2_tablet": 53,
+  "VA@D3_phone": 130,
+  "TC@D3_phone": 23,
+  "TI@D3_phone": 6,
+  "TS@D3_phone": 7,
+  "NC@D3_phone": 53,
+  "TI@D4_reflow": 6,
+  "CV@D5_cvd": 3,
+  "AC@D6_outdoor": 56
+ },
+ "views": [
+  "D1_desktop",
+  "D2_tablet",
+  "D3_phone",
+  "D4_reflow"
+ ]
+}

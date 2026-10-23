@@ -1,0 +1,47 @@
+{
+ "id": "qwen3_coder__TH-10__direct",
+ "group": "ai",
+ "model": "qwen3_coder",
+ "pid": "TH-10",
+ "domain": "thermal_ir",
+ "source": "direct",
+ "defect": null,
+ "style": "cockpit",
+ "context": "industrial furnace monitoring",
+ "function": "hotspot alarms",
+ "domain_name": "thermal infrared monitoring",
+ "total": 131,
+ "by_dim": {
+  "VA": 93,
+  "NC": 12,
+  "TS": 6,
+  "CV": 3,
+  "AC": 17
+ },
+ "by_cond": {
+  "D1_desktop": 40,
+  "D2_tablet": 33,
+  "D3_phone": 38,
+  "D5_cvd": 3,
+  "D6_outdoor": 17
+ },
+ "cells": {
+  "VA@D1_desktop": 35,
+  "NC@D1_desktop": 4,
+  "TS@D1_desktop": 1,
+  "VA@D2_tablet": 28,
+  "NC@D2_tablet": 4,
+  "TS@D2_tablet": 1,
+  "VA@D3_phone": 30,
+  "TS@D3_phone": 4,
+  "NC@D3_phone": 4,
+  "CV@D5_cvd": 3,
+  "AC@D6_outdoor": 17
+ },
+ "views": [
+  "D1_desktop",
+  "D2_tablet",
+  "D3_phone",
+  "D4_reflow"
+ ]
+}

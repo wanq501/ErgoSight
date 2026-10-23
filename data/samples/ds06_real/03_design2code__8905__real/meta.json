@@ -1,0 +1,55 @@
+{
+ "id": "design2code__8905__real",
+ "group": "real",
+ "model": "design2code",
+ "pid": "8905",
+ "domain": "web",
+ "source": "real",
+ "defect": null,
+ "style": "",
+ "context": "",
+ "function": "",
+ "domain_name": "",
+ "total": 135,
+ "by_dim": {
+  "VA": 60,
+  "TC": 9,
+  "TI": 2,
+  "NC": 12,
+  "TS": 37,
+  "RF": 12,
+  "AC": 3
+ },
+ "by_cond": {
+  "D1_desktop": 39,
+  "D2_tablet": 40,
+  "D3_phone": 43,
+  "D4_reflow": 10,
+  "D6_outdoor": 3
+ },
+ "cells": {
+  "VA@D1_desktop": 20,
+  "TC@D1_desktop": 3,
+  "TI@D1_desktop": 1,
+  "NC@D1_desktop": 4,
+  "TS@D1_desktop": 11,
+  "VA@D2_tablet": 20,
+  "TC@D2_tablet": 3,
+  "TI@D2_tablet": 1,
+  "NC@D2_tablet": 4,
+  "TS@D2_tablet": 12,
+  "VA@D3_phone": 20,
+  "TC@D3_phone": 3,
+  "TS@D3_phone": 14,
+  "NC@D3_phone": 4,
+  "RF@D3_phone": 2,
+  "RF@D4_reflow": 10,
+  "AC@D6_outdoor": 3
+ },
+ "views": [
+  "D1_desktop",
+  "D2_tablet",
+  "D3_phone",
+  "D4_reflow"
+ ]
+}

@@ -1,0 +1,5 @@
+Create one complete HMI screen as a single HTML5 document.
+
+{design brief: Design {article} {domain} interface for {context}. Primary users: {users}. ...}
+
+Technical rules: inline CSS and JavaScript only; no external resources (no CDN, web fonts, images or network requests); use inline SVG or CSS for graphics. Output only the HTML document inside one ```html code block.

@@ -1,0 +1,48 @@
+{
+ "id": "glm__RD-01__defect-overlap",
+ "group": "ai",
+ "model": "glm",
+ "pid": "RD-01",
+ "domain": "radar",
+ "source": "defect",
+ "defect": "overlap",
+ "style": "fluent",
+ "context": "coastal surveillance radar",
+ "function": "track display and track list",
+ "domain_name": "radar situation display",
+ "total": 40,
+ "by_dim": {
+  "VA": 16,
+  "TI": 6,
+  "TS": 3,
+  "NC": 9,
+  "RF": 6
+ },
+ "by_cond": {
+  "D1_desktop": 22,
+  "D2_tablet": 4,
+  "D3_phone": 8,
+  "D4_reflow": 6
+ },
+ "cells": {
+  "VA@D1_desktop": 15,
+  "TI@D1_desktop": 3,
+  "TS@D1_desktop": 1,
+  "NC@D1_desktop": 3,
+  "TS@D2_tablet": 1,
+  "NC@D2_tablet": 3,
+  "VA@D3_phone": 1,
+  "TI@D3_phone": 1,
+  "TS@D3_phone": 1,
+  "NC@D3_phone": 3,
+  "RF@D3_phone": 2,
+  "TI@D4_reflow": 2,
+  "RF@D4_reflow": 4
+ },
+ "views": [
+  "D1_desktop",
+  "D2_tablet",
+  "D3_phone",
+  "D4_reflow"
+ ]
+}

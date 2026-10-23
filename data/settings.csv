@@ -1,0 +1,7 @@
+setting,input
+S0,screenshot under the display condition with the question prompt
+S1,"S0 plus the PVL views (enlarged crop, scale reference, viewer simulation where the condition calls for one)"
+S1-noSim,S1 without the viewer simulation
+S1-noRuler,S1 without the scale reference
+S1-noLoupe,S1 without the enlarged crop
+S2,S0 plus the measured value from the PMO (oracle setting)

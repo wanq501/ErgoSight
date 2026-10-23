@@ -1,0 +1,49 @@
+{
+ "id": "kimi_k2__TO-02__defect-truncate",
+ "group": "ai",
+ "model": "kimi_k2",
+ "pid": "TO-02",
+ "domain": "teleoperation",
+ "source": "defect",
+ "defect": "truncate",
+ "style": "fluent",
+ "context": "a warehouse AGV",
+ "function": "manipulator arm control",
+ "domain_name": "robot teleoperation",
+ "total": 161,
+ "by_dim": {
+  "VA": 112,
+  "TI": 25,
+  "TS": 12,
+  "CV": 1,
+  "AC": 11
+ },
+ "by_cond": {
+  "D1_desktop": 48,
+  "D2_tablet": 45,
+  "D3_phone": 49,
+  "D4_reflow": 7,
+  "D5_cvd": 1,
+  "D6_outdoor": 11
+ },
+ "cells": {
+  "VA@D1_desktop": 39,
+  "TI@D1_desktop": 5,
+  "TS@D1_desktop": 4,
+  "VA@D2_tablet": 35,
+  "TI@D2_tablet": 6,
+  "TS@D2_tablet": 4,
+  "VA@D3_phone": 38,
+  "TI@D3_phone": 7,
+  "TS@D3_phone": 4,
+  "TI@D4_reflow": 7,
+  "CV@D5_cvd": 1,
+  "AC@D6_outdoor": 11
+ },
+ "views": [
+  "D1_desktop",
+  "D2_tablet",
+  "D3_phone",
+  "D4_reflow"
+ ]
+}

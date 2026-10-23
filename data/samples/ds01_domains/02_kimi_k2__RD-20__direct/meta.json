@@ -1,0 +1,55 @@
+{
+ "id": "kimi_k2__RD-20__direct",
+ "group": "ai",
+ "model": "kimi_k2",
+ "pid": "RD-20",
+ "domain": "radar",
+ "source": "direct",
+ "defect": null,
+ "style": "bento",
+ "context": "perimeter security radar",
+ "function": "playback and analysis",
+ "domain_name": "radar situation display",
+ "total": 281,
+ "by_dim": {
+  "TC": 63,
+  "VA": 145,
+  "NC": 12,
+  "TS": 9,
+  "TI": 2,
+  "RF": 2,
+  "AC": 48
+ },
+ "by_cond": {
+  "D1_desktop": 74,
+  "D2_tablet": 77,
+  "D3_phone": 80,
+  "D4_reflow": 2,
+  "D6_outdoor": 48
+ },
+ "cells": {
+  "TC@D1_desktop": 21,
+  "VA@D1_desktop": 48,
+  "NC@D1_desktop": 4,
+  "TS@D1_desktop": 1,
+  "TC@D2_tablet": 21,
+  "VA@D2_tablet": 48,
+  "TS@D2_tablet": 4,
+  "NC@D2_tablet": 4,
+  "TC@D3_phone": 21,
+  "VA@D3_phone": 49,
+  "TI@D3_phone": 1,
+  "TS@D3_phone": 4,
+  "NC@D3_phone": 4,
+  "RF@D3_phone": 1,
+  "TI@D4_reflow": 1,
+  "RF@D4_reflow": 1,
+  "AC@D6_outdoor": 48
+ },
+ "views": [
+  "D1_desktop",
+  "D2_tablet",
+  "D3_phone",
+  "D4_reflow"
+ ]
+}

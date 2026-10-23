@@ -1,0 +1,56 @@
+{
+ "id": "kimi_k2__TH-10__direct",
+ "group": "ai",
+ "model": "kimi_k2",
+ "pid": "TH-10",
+ "domain": "thermal_ir",
+ "source": "direct",
+ "defect": null,
+ "style": "cockpit",
+ "context": "industrial furnace monitoring",
+ "function": "hotspot alarms",
+ "domain_name": "thermal infrared monitoring",
+ "total": 302,
+ "by_dim": {
+  "VA": 189,
+  "TC": 30,
+  "NC": 9,
+  "TS": 22,
+  "TI": 2,
+  "RF": 1,
+  "CV": 1,
+  "AC": 48
+ },
+ "by_cond": {
+  "D1_desktop": 77,
+  "D2_tablet": 88,
+  "D3_phone": 86,
+  "D4_reflow": 2,
+  "D5_cvd": 1,
+  "D6_outdoor": 48
+ },
+ "cells": {
+  "VA@D1_desktop": 64,
+  "TC@D1_desktop": 10,
+  "NC@D1_desktop": 3,
+  "VA@D2_tablet": 64,
+  "TC@D2_tablet": 10,
+  "TS@D2_tablet": 11,
+  "NC@D2_tablet": 3,
+  "VA@D3_phone": 61,
+  "TC@D3_phone": 10,
+  "TI@D3_phone": 1,
+  "TS@D3_phone": 11,
+  "NC@D3_phone": 3,
+  "TI@D4_reflow": 1,
+  "RF@D4_reflow": 1,
+  "CV@D5_cvd": 1,
+  "AC@D6_outdoor": 48
+ },
+ "views": [
+  "D1_desktop",
+  "D2_tablet",
+  "D3_phone",
+  "D4_reflow"
+ ]
+}
