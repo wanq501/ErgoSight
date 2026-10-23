@@ -1,9 +1,0 @@
-,swap_consistency,L3_share_of_B
-Claude Sonnet 5.5,91.4,57.3
-Gemini 3.8 Flash,92.2,51.6
-GPT-5.4 mini,81.2,58.1
-Claude Haiku 5.5,88.0,54.3
-Qwen3.5-397B-A17B,45.3,78.2
-Qwen3.5-9B,0.0,99.9
-Qwen3-VL-8B-Instruct,0.6,99.6
-InternVL3.5-8B,3.8,97.0
