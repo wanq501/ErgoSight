@@ -85,7 +85,3 @@ Each line of `questions.jsonl` is one question.
 ## License
 
 The code is released under the MIT License, see `LICENSE`. The data are released under CC BY 4.0, see `DATA_LICENSE.md`. The real web pages are taken from Design2Code and remain subject to its license.
-
-## Contact
-
-Qian Wan, School of Computing and Artificial Intelligence, Southwest Jiaotong University, qianwan1990@outlook.com
