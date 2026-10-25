@@ -1,5 +1,5 @@
 <h1>
-  <p align=center> ErgoSight: Physically Grounded Evaluation of How Multimodal Large Language Models Perceive the Visual Ergonomics of User Interfaces </p>
+  <p align=center> ErgoSight: Physically Grounded Evaluation of Multimodal Large Language Models for Checking User Interfaces Against Visual Ergonomics Standards </p>
 <div align="center">
 
 ![Questions 4,275](https://img.shields.io/badge/questions-4%2C275-blue.svg)
